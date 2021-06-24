@@ -1,0 +1,1 @@
+from .setting import SAVE_PATH, DATA_PATH, CONFIG_PATH, CORE_PATH

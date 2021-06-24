@@ -1,0 +1,5 @@
+socialscan==1.4.1
+gevent==21.1.2
+colorama==0.4.4
+pyfiglet==0.8.post1
+mega.py
