@@ -12,7 +12,18 @@ pip install -r requirements.txt
 ### usage
 python main.py
 
+# Features
+imap check fast
+amz checker
+spotify check if has registered
+netflix if has registerd
+social media account checker
+dork maker
+dork searcher
+and helper tools for combine email:pass in folder
+
 for data email:pass, must be separated by a ":"
+
 ### info
 if you want buy me a coffee to paypal.me/zxdi
 
